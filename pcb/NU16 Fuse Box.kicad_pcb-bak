@@ -10,6 +10,15 @@
   )
 
   (page A4)
+  (title_block
+    (title "NU16 Fusebox")
+    (date 2020-10-07)
+    (rev v0.1)
+    (company "NU Racing")
+    (comment 1 "Chris Neal")
+    (comment 2 "Mitchell Deltoer")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
