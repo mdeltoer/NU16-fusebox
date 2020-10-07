@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Mini-Fit-Jr-4.20mm-pitch)(type KiCad)(uri ${KIPRJMOD}/Mini-Fit-Jr-4.20mm-pitch.pretty)(options "")(descr ""))
+  (lib (name fusebox)(type KiCad)(uri ${KIPRJMOD}/fusebox.pretty)(options "")(descr ""))
+  (lib (name Connector_Molex)(type KiCad)(uri ${KIPRJMOD}/Connector_Molex.pretty)(options "")(descr ""))
+)

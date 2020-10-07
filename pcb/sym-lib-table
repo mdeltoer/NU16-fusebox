@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name NU16-Fuse-Box-rescue)(type Legacy)(uri "${KIPRJMOD}/NU16 Fuse Box-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name fusebox)(type Legacy)(uri ${KIPRJMOD}/fusebox.lib)(options "")(descr ""))
+)
